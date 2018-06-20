@@ -1,7 +1,7 @@
 'use strict';
  
 /* Vendor libraries */
-var fetchWrapperServices = require('../lib/vendor/fetch/wrapperServices.js');
+//var fetchWrapperServices = require('../lib/vendor/fetch/wrapperServices.js');
 var mirWrapperServices = require('../lib/vendor/mir/wrapperServices.js');
 
 /* ---------------- */
