@@ -1,5 +1,11 @@
 'use strict';
 
+/*
+* @author xshao created 6/19/17, modified 6/25/17
+* abstracing this module for db connection to HANA
+* using hdb - client for nodejs
+*/
+
 const hdb = require('hdb');
 
 module.exports = {
